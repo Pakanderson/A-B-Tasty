@@ -1,5 +1,5 @@
 # A-B-Tasty
-This project evaluates an A/B test conducted for the company **Eniac** to optimize the Click-Through Rate (CTR) on the website's homepage. The experiment focused on testing two key design variables and was carried out as part of a practical data analytics case study project during a bootcamp at WBS Coding School
+This project evaluates an A/B test conducted for the company **Eniac** to optimize the Click-Through Rate (CTR) on their website's homepage. The experiment focused on testing two key design variables and was carried out as part of a practical data analytics case study project during a bootcamp at WBS Coding School
 > Optimizing Click-Through Rate (CTR) through data-driven homepage design decisions.
 
 ## Project Overview
@@ -13,8 +13,6 @@ This project evaluates an A/B test conducted for the company **Eniac** to optimi
 - **Significance Level: α = 0.05 (95% confidence)**
 
 ## Statistical Findings
-> Metric Value
-- **Chi-squP-value** 2.72 × 10⁻⁴⁸**
 - **Outcome > Reject H₀**
 
 > Since the p-value is significantly lower than 0.05, we **reject the Null Hypothesis**. The design variations have a statistically significant impact on user behavior.
@@ -22,6 +20,7 @@ This project evaluates an A/B test conducted for the company **Eniac** to optimi
 **Recommendation** - Statistically validated as the superior choice
   
 **🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
