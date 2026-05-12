@@ -3,8 +3,8 @@ This project evaluates an A/B test conducted for the company **Eniac** to optimi
 > Optimizing Click-Through Rate (CTR) through data-driven homepage design decisions.
 
 ## Project Overview
-- *Button color** — White vs. Red
-- *Call-to-action text** — "SHOP NOW" vs. "SEE DEALS."
+- **Button color** — White vs. Red
+- **Call-to-action text** — "SHOP NOW" vs. "SEE DEALS."
 
 ## Hypotheses
 - **H₀ (Null): There is no difference in CTR across versions**.
@@ -17,7 +17,7 @@ This project evaluates an A/B test conducted for the company **Eniac** to optimi
 - **Chi-squP-value** 2.72 × 10⁻⁴⁸**
 - **Outcome > Reject H₀**
 
-- > Since the p-value is significantly lower than 0.05, we **reject the Null Hypothesis**. The design variations have a statistically significant impact on user behavior.
+> Since the p-value is significantly lower than 0.05, we **reject the Null Hypothesis**. The design variations have a statistically significant impact on user behavior.
 
 **Recommendation** - Statistically validated as the superior choice
   
