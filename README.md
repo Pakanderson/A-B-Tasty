@@ -7,15 +7,15 @@ This project evaluates an A/B test conducted for the company **Eniac** to optimi
 - **Call-to-action text** — "SHOP NOW" vs. "SEE DEALS."
 
 ### Hypotheses
-**H₀ (Null):** There is no difference in CTR across versions.
-**H₁ (Alternative)** At least one version has a statistically significant difference in CTR.
-**Significance Level** α = 0.05 (95% confidence)
+> H₀ (Null): There is no difference in CTR across versions.
+
+> H₁ (Alternative): At least one version has a statistically significant difference in CTR.
+> Significance Level: α = 0.05 (95% confidence)
 
 ### Statistical Findings
 Metric Value
-**Chi-squared Statistic** 224.02
-**P-value** 2.72 × 10⁻⁴⁸
-**Outcome** Reject H₀
+> Chi-squP-value** 2.72 × 10⁻⁴⁸
+> Outcome > Reject H₀
 
 > Since the p-value is significantly lower than 0.05, we **reject the Null Hypothesis**. The design variations have a statistically significant impact on user behavior.
 
