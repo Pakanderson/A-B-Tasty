@@ -9,8 +9,8 @@ This project evaluates an A/B test conducted for the company **Eniac** to optimi
 **Hypotheses**
 > H₀ (Null): There is no difference in CTR across versions.
 
-- > H₁ (Alternative): At least one version has a statistically significant difference in CTR.
-- > Significance Level: α = 0.05 (95% confidence)
+> *H₁ (Alternative): At least one version has a statistically significant difference in CTR*.
+> *Significance Level: α = 0.05 (95% confidence)*
 
 **Statistical Findings**
 Metric Value
