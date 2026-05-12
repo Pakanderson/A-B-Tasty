@@ -9,7 +9,7 @@ This project evaluates an A/B/ experiment conducted for the company **Eniac** to
 ## 📋 Project Overview
 
 - **Button color** — White vs. Red
-- **Call-to-action text** — "SHOP NOW" vs. "SEE DEALS"
+- **Call-to-action text** — "SHOP NOW" vs. "SEE DEALS."
 
 ---
 
@@ -20,19 +20,6 @@ This project evaluates an A/B/ experiment conducted for the company **Eniac** to
 | **H₀ (Null)** | There is no difference in CTR across the different versions. |
 | **H₁ (Alternative)** | At least one version has a statistically significant difference in CTR. |
 | **Significance Level** | α = 0.05 (95% confidence) |
-
----
-
-## 🔬 Experimental Design
-
-Four versions were tested across a **14-day period** with **100,182 total visits**:
-
-| Version | Button Color | CTA Text |
-|---------|-------------|----------|
-| **A** | ⬜ White | "SHOP NOW" |
-| **B** | 🟥 Red | "SHOP NOW" |
-| **C** | ⬜ White | "SEE DEALS" |
-| **D** | 🟥 Red | "SEE DEALS" |
 
 ---
 
