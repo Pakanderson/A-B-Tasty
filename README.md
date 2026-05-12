@@ -1,5 +1,5 @@
 # A-B-Tasty
-This project evaluates an A/B/ experiment conducted for the company **Eniac** to optimize the Click-Through Rate (CTR) on the website's homepage. The experiment focused on testing two key design variables and was carried out as part of a practical data analytics case study project during a bootcamp at WBS Coding School
+This project evaluates an A/B test conducted for the company **Eniac** to optimize the Click-Through Rate (CTR) on the website's homepage. The experiment focused on testing two key design variables and was carried out as part of a practical data analytics case study project during a bootcamp at WBS Coding School
 > Optimizing Click-Through Rate (CTR) through data-driven homepage design decisions.
 
 ### Project Overview
