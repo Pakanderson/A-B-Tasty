@@ -7,7 +7,7 @@ This project evaluates an A/B test conducted for the company **Eniac** to optimi
 - *Call-to-action text** — "SHOP NOW" vs. "SEE DEALS."
 
 ## Hypotheses
-> H₀ (Null): There is no difference in CTR across versions.
+- **H₀ (Null): There is no difference in CTR across versions**.
 
 - **H₁ (Alternative): At least one version has a statistically significant difference in CTR**.
 - **Significance Level: α = 0.05 (95% confidence)**
@@ -19,8 +19,7 @@ This project evaluates an A/B test conducted for the company **Eniac** to optimi
 
 - > Since the p-value is significantly lower than 0.05, we **reject the Null Hypothesis**. The design variations have a statistically significant impact on user behavior.
 
-**Recommendation**
-- Statistically validated as the superior choice
+**Recommendation** - Statistically validated as the superior choice
   
 **🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
