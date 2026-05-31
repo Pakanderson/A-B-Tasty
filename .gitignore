@@ -1,0 +1,7 @@
+# Ignore raw data files
+Data/*.csv
+
+# Ignore local system files
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
