@@ -1,5 +1,5 @@
 # Ignore raw data files
-Data/*.csv
+#Data/*.csv
 
 # Ignore local system files
 .DS_Store
